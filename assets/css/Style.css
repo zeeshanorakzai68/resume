@@ -1,0 +1,64 @@
+body {
+    background: #C8C8C8 !important; 
+  }
+  page {
+    background: white;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 0.5cm;
+    box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+  }
+  page[size="A4"] {  
+    width: 21cm;
+    height: 29.7cm; 
+  }
+.Left-Side-Bg {
+    background-color: black;
+    margin-left: 15px;
+}
+.Right-Side-Bg{
+    margin-right: -30px;
+}
+.Contact-Design img{
+    width: 25px;
+    height: 25px;
+}
+.Education-Design h3{
+    color: #ffffff;
+}
+u {
+    text-decoration: underline #fcc419;
+    text-underline-offset: 6px;
+  }
+.Education-Design b{
+    color: #DCDCDC;
+}
+.Education-Design ul {
+    color: #C0C0C0;
+}
+.Skills h3 {
+    color: #ffffff;
+}
+.Skills b {
+    color: #DCDCDC;
+}
+
+.checked
+    {
+        color: #fcc419;;
+    }
+
+/* Right Side Design */
+.Right-Side-Bg {
+    padding-right: 40px !important;
+}
+.Name-Design
+    {
+        background-color: #fcc419;
+        padding: 30px;
+        margin-top: 80px;
+        margin-left: -40px;
+    }
+.Experience-Section {
+    margin-top: 15px;
+}
